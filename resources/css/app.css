@@ -1,0 +1,11 @@
+@import 'bootstrap.css';
+@import 'custom.css';
+@import 'custom2.css';
+
+h2 {
+    color: blue;
+}
+
+h3{
+    color: black !important;
+}
